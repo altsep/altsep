@@ -4,7 +4,7 @@
 📒 [text storage](https://lt-text-exchanger.herokuapp.com/)  
 ⛅ [drag-and-drop momentum](https://lt-momentum-clone.netlify.app/)  
 
-## certifications
+## certificates
 
 #### scrimba
 
