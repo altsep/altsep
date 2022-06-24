@@ -15,7 +15,7 @@
 #### fcc
 
 - [front end libraries](https://www.freecodecamp.org/certification/altsep/front-end-development-libraries) 
-- [algorithms](https://www.freecodecamp.org/certification/altsep/javascript-algorithms-and-data-structures) 
+- [js algorithms](https://www.freecodecamp.org/certification/altsep/javascript-algorithms-and-data-structures) 
 - [responsive](https://www.freecodecamp.org/certification/altsep/responsive-web-design)  
 
 ![(c) unomoralez](unomoralez-beckon.gif)
