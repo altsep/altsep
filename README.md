@@ -1,6 +1,6 @@
 ## creations
 
-🪀 [game prices](https://chipper-froyo-bd2665.netlify.app/)  
+🪀 [game prices aggregator](https://chipper-froyo-bd2665.netlify.app/)  
 📒 [text storage](https://lt-text-exchanger.herokuapp.com/)  
 ⛅ [momentum](https://lt-momentum-clone.netlify.app/)  
 ⏳ [timer](https://lt-fcc-timer.netlify.app/)  
