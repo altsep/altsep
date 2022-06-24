@@ -2,10 +2,7 @@
 
 🪀 [game prices aggregator](https://chipper-froyo-bd2665.netlify.app/) *wip*  
 📒 [text storage](https://lt-text-exchanger.herokuapp.com/)  
-⛅ [momentum](https://lt-momentum-clone.netlify.app/)  
-⏳ [timer](https://lt-fcc-timer.netlify.app/)  
-➗ [calc](https://lt-fcc-js-calc.netlify.app/)  
-#️⃣ [markdown previewer](https://lt-fcc-mark-p.netlify.app/)  
+⛅ [drag-and-drop momentum](https://lt-momentum-clone.netlify.app/)  
 
 ## validations
 
