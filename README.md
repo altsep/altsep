@@ -12,6 +12,7 @@
 #### scrimba
 
 - [react](https://scrimba.com/certificate/uqREz7U9/greact)  
+
 #### fcc
 
 - [front end libraries](https://www.freecodecamp.org/certification/altsep/front-end-development-libraries) 
