@@ -14,6 +14,6 @@
 
 - [front end libraries](https://www.freecodecamp.org/certification/altsep/front-end-development-libraries) 
 - [js algorithms](https://www.freecodecamp.org/certification/altsep/javascript-algorithms-and-data-structures) 
-- [responsive](https://www.freecodecamp.org/certification/altsep/responsive-web-design)  
+- [responsive design](https://www.freecodecamp.org/certification/altsep/responsive-web-design)  
 
 [![(c) unomoralez](unomoralez-beckon.gif)](http://altsep.vercel.app/)
