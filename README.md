@@ -1,7 +1,7 @@
 ## creations
 
 🪀 [game prices aggregator](https://chipper-froyo-bd2665.netlify.app/) *wip*  
-📒 [text storage](https://lt-text-exchanger.herokuapp.com/)  
+📒 [text exchanger](https://lt-text-exchanger.herokuapp.com/)  
 ⛅ [drag-and-drop momentum](https://lt-momentum-clone.netlify.app/)  
 
 ## certificates
